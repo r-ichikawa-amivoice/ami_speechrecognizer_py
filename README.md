@@ -1,4 +1,4 @@
-pulseaudio_record
+ami_speechrecognizer_py
 
 Copyright (c) 2021, Advanced Media. All rights reserved.
 
